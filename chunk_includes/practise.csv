@@ -1,0 +1,9 @@
+item,context,context_audio,sentence,sentence_audio,image,explain
+1,"Klauni byli celý den na oslavě, kde drželi balónky.",practise_1.mp3,Každý drží balónek.,practise_sent_1.mp3,klauni.jpg,""
+1,"Klauni byli celý den na oslavě, kde drželi balónky.",practise_1.mp3,Každý drží balónek.,practise_sent_1.mp3,klauni.jpg,"Větu hodnotíme jako správnou. Podle obrázku vidíme, že každý z klaunů opravdu drží jeden balónek."
+2,"Zvířátka dostala dopisy od svých kamarádů, ze kterých mají velkou radost.",practise_2.mp3,Krokodýl a veverka dostali nové hračky.,practise_sent_2.mp3,dopisy.jpg,""
+2,"Zvířátka dostala dopisy od svých kamarádů, ze kterých mají velkou radost.",practise_2.mp3,Krokodýl a veverka dostali nové hračky.,practise_sent_2.mp3,dopisy.jpg,"Větu hodnotíme jako nesprávnou. Podle obrázku vidíme, že zvířátka nedrží hračky, ale dopisy."
+3,"Děti mají nové pastelky, které chtěly hned vyzkoušet a tak kreslily obrázky.",practise_3.mp3,Děti nakreslily dva obrázky.,practise_sent_3.mp3,kresleni.jpg,""
+3,"Děti mají nové pastelky, které chtěly hned vyzkoušet a tak kreslily obrázky.",practise_3.mp3,Děti nakreslily dva obrázky.,practise_sent_3.mp3,kresleni.jpg,"Větu hodnotíme jako správnou. Podle obrázku vidíme, že počet nakreslených obrázků souhlasí."
+4,"Kamarádky se rozhodly, že pojedou na společný výlet.",practise_4.mp3,Kamarádky si na cestu sbalily dva kufry.,practise_sent_4.mp3,kufry.jpg,""
+4,"Kamarádky se rozhodly, že pojedou na společný výlet.",practise_4.mp3,Kamarádky si na cestu sbalily dva kufry.,practise_sent_4.mp3,kufry.jpg,"Větu hodnotíme jako správnou. Podle obrázku vidíme, že každá z dívek si sbalila své dva kufry."

@@ -1,0 +1,9 @@
+item,condition,context,context_audio,sentence,sentence_audio,image
+1,good_filler,Je horký letní den a tučňáci se chtějí zchladit.,filler_1.mp3,Tučňáci jedí zmrzlinu.,tucnaci.mp3,tucnaci.jpg
+2,bad_filler,Sestry Anežka a Klárka čtou nejraději dobrodružné příběhy. Přes prázdniny se chystají přečíst dvě knihy.,filler_2.mp3,Sestry čtou knížky.,cteni.mp3,cteni.jpg
+3,good_filler,Bratr a sestra dostali k narozeninám nová kola.,filler_3.mp3,Sourozenci vyjeli na výlet na kolech.,kola.mp3,kola.jpg
+4,bad_filler,"Na statku žijí ovce, kozy, slepice a kůň. Holčička je každé ráno a každý večer musí nakrmit.",filler_4.mp3,Holčička krmí kozy.,krmeni.mp3,krmeni.jpg
+5,good_filler,"Strašáci vždy chránili úrodu před nenasytnými zvířátky, které by jinak lidem vše snědly.",filler_5.mp3,Na poli stojí dva strašáci.,strasaci.mp3,strasaci.jpg
+6,bad_filler,"Rybář za odpoledne nachytal spoustu ryb, které chtěl prodat na rybím trhu.",filler_6.mp3,Rybář ulovil dvě ryby.,rybar.mp3,rybar.jpg
+7,good_filler,Babička s dědečkem chodí rádi na procházky do lesa a vždy přitom najdou u cesty houby.,filler_7.mp3,V lese rostou houby.,houby.mp3,houby.jpg
+8,bad_filler,Les je plný zvířátek. Na větvích stromů dováděly veverky a sovy je zvědavě pozorovaly zpovzdálí.,filler_8.mp3,Na stromě sedí dva ptáci.,tuzky.mp3,tuzky.jpg
